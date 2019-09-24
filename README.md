@@ -1,2 +1,2 @@
-# Capstone-Clustering-Part-1
+# Capstone-Clustering-Project
 K means clustering
